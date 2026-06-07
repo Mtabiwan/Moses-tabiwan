@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Sikadwa Loan",
+  "description": "Sikadwa Loan App is Ghana\u0027s premier instant micro-loan platform offering Mobile Money (MoMo) disbursement, dynamic risk assessment, credit ranking, and administrative portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
